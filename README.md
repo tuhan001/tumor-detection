@@ -1,5 +1,7 @@
 # Brain-Tumor-Detection-Using-Deep-Learning-MRI-Images-Detection-Using-Computer-Vision
 
+
+
 # 🧠 Brain Tumor Detection using Deep Learning (MRI Images)
 
 This project is a **Flask web application** that uses a trained deep learning model to detect and classify brain tumors from MRI images.  
@@ -37,6 +39,9 @@ Brain-Tumor-Detection-Using-Deep-Learning-MRI-Images-Detection-Using-Computer-Vi
 ---
 
 ## ⚙️ Installation & Setup
+you need to run this project. first of all you run the idymb file on colab,
+then downlode the h5 data model and create a folder name model, 
+then html file replace on template then use for thouse system for your oprateing system
 
 ### 1. Clone this repository
 ```bash
@@ -129,3 +134,4 @@ mv index.html templates/index.html
 
 # 8. Run the Flask app
 python main.py
+
